@@ -1,11 +1,9 @@
 # Tacacs-Plus
 
-This code was first created in the early 2000s during my time at Rackspace and was used
-as the production AAA system for our infrastructure. I am republishing now due to various
-requests I've received over the years to bring it back.
+This code was used as the production AAA system for a large cloud provider's infrastructure. 
+I am republishing now due to various requests I've received over the years to bring it back.
 
-Note that I no longer run a production system and have no real means of testing this code.
-The code is old, and probably a bit messy, but it was working when I last used it.
+Note that the code is old, and probably a bit messy, but it was working when I last used it.
 I assume that it still does.
 
 # Usage
